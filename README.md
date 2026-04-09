@@ -152,3 +152,15 @@ document.getElementById("formatselect").addEventListener("change", () => {
 
 y este me permite guardar los colores cambiando el formato sin generar otra paleta ya que fue el problema que tuve y me explicaron en sesion.
 
+3 tercer prompt
+
+Etiquetas para primer commit
+
+<img width="233" height="359" alt="Captura de pantalla 2026-04-09 a la(s) 16 56 16" src="https://github.com/user-attachments/assets/85181518-6a64-4c95-ae96-8068d607b070" />
+
+
+4 cuarto prompt
+
+diferecias entre main y root dentro de github pages 
+
+<img width="252" height="418" alt="Captura de pantalla 2026-04-09 a la(s) 16 58 41" src="https://github.com/user-attachments/assets/55b7dbac-57fe-4214-8f95-8c514e18354c" />
