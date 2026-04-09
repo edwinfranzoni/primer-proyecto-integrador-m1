@@ -17,7 +17,7 @@ El usuario puede:
 
 ⚙️ ¿Cómo funciona?
 
-🎲 Generación de paletas
+Generación de paletas
 
 Al hacer clic en el botón “Generate Color”, el sistema:
 
@@ -40,7 +40,40 @@ Después de generar la paleta, el usuario puede cambiar el formato de los colore
 
 El cambio se aplica a todos los colores generados sin necesidad de crear una nueva paleta.
 
+🧠 Lógica del proyecto
 
+La aplicación está basada en la generación de colores aleatorios y la manipulación del DOM.
+
+🔹 Generación de colores
+
+Se generan colores aleatorios utilizando JavaScript:
+
+	•	Para HEX:
+	•	Se construye un color con valores aleatorios del 0 al 255 convertidos a hexadecimal
+	•	Para HSL:
+	•	Se generan valores aleatorios de:
+	•	Hue (0–360)
+	•	Saturation (0–100%)
+	•	Lightness (0–100%)
+
+
+🔹 Creación de la paleta
+
+	1.	El usuario selecciona la cantidad de colores (6, 8 o 9)
+	
+	2.	Se ejecuta una función que:
+	
+	•	Limpia la paleta anterior
+	•	Genera nuevos colores
+	•	Aplica el color como fondo
+
+
+🔹 Cambio de formato
+
+	•	Se utiliza un botón para alternar entre formatos:
+	•	Si está en HEX → cambia a HSL
+	•	Si está en HSL → cambia a HEX
+	•	La conversión se realiza sin regenerar la paleta, manteniendo los mismos colores.
 
 
 
