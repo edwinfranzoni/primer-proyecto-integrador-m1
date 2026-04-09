@@ -124,4 +124,31 @@ Después de generar la paleta, el usuario puede cambiar el formato de los colore
 
 DOCUMENTACION DEL USO DE LA IA
 
-1
+1 Primer prompt
+
+<img width="488" height="213" alt="Captura de pantalla 2026-04-08 a la(s) 22 40 08" src="https://github.com/user-attachments/assets/4d3b3317-e067-4b34-838c-a8324df04fc9" />
+
+
+<img width="857" height="280" alt="Captura de pantalla 2026-04-08 a la(s) 22 34 08" src="https://github.com/user-attachments/assets/6576ee0b-6678-4f3c-b9ff-cbacbd135e82" />
+
+este resultado no me fuciono como requeria ya que aun no me guardaba los colores con el formato que solicitaba por lo que tuve que ser mas especifico.
+
+2 segundo prompt
+
+<img width="616" height="153" alt="Captura de pantalla 2026-04-08 a la(s) 22 32 07" src="https://github.com/user-attachments/assets/de6e65ab-cc4a-417a-b072-b81774094221" />
+
+
+let coloresGenerados = [];
+
+
+este codigo me permitio guardar los colores 
+
+
+// 🔁 Evento del selector (solo cambia formato)
+document.getElementById("formatselect").addEventListener("change", () => {
+    mostrarColores();
+});
+
+
+y este me permite guardar los colores cambiando el formato sin generar otra paleta ya que fue el problema que tuve y me explicaron en sesion
+
