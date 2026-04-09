@@ -11,9 +11,11 @@ Aplicación web que genera paletas de colores aleatorias de 6, 8 o 9 colores y p
 Este proyecto permite al usuario generar paletas de colores dinámicas para diseño o desarrollo web.
 
 El usuario puede:
-	•	Elegir la cantidad de colores en la paleta (6, 8 o 9)
-	•	Generar combinaciones aleatorias
-	•	Cambiar el formato de visualización de los colores
+	
+	-Elegir la cantidad de colores en la paleta (6, 8 o 9)
+	-Generar combinaciones aleatorias
+	-Cambiar el formato de visualización de los colores
+
 
 <img width="600" height="221" alt="Captura de pantalla 2026-04-08 a la(s) 19 37 13" src="https://github.com/user-attachments/assets/634fe3e7-e0ab-48fe-b13a-ef4dcce13b43" />
 
@@ -23,6 +25,7 @@ El usuario puede:
  Generación de paletas
 
 Al hacer clic en el botón “Generate Color”, el sistema:
+	
 	1.	Genera colores aleatorios mediante JavaScript
 	2.	Crea dinámicamente elementos en el DOM
 	3.	Muestra una paleta de:
