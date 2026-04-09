@@ -1,4 +1,4 @@
-🎨 Generador de Paletas de Colores
+## 🎨 Generador de Paletas de Colores
 
 Aplicación web que genera paletas de colores aleatorias de 6, 8 o 9 colores y permite visualizar cada color en distintos formatos como HEX y HSL.
 
@@ -78,13 +78,13 @@ Se generan colores aleatorios utilizando JavaScript:
 
 
 
-liga desplegada: edwinfranzoni.github.io/ProyectoM1_Edwin-Hernandez/
+### liga desplegada: edwinfranzoni.github.io/ProyectoM1_Edwin-Hernandez/
 
 
 
 
 
-DOCUMENTACION DEL PROYECTO 1
+## DOCUMENTACION DEL PROYECTO 1
 
 funcionamiento de la pagina web
 
@@ -122,7 +122,7 @@ Después de generar la paleta, el usuario puede cambiar el formato de los colore
 
 
 
-DOCUMENTACION DEL USO DE LA IA
+## DOCUMENTACION DEL USO DE LA IA
 
 1 Primer prompt
 
