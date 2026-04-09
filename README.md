@@ -77,8 +77,7 @@ Se generan colores aleatorios utilizando JavaScript:
 
 
 
-
-### liga desplegada: edwinfranzoni.github.io/ProyectoM1_Edwin-Hernandez/
+https://edwinfranzoni.github.io/ProyectoM1_Edwin-Hernandez/
 
 
 
